@@ -1,0 +1,17 @@
+# Python artifacts
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pyc
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE/editor settings
+.vscode/
+
+# OS files
+.DS_Store
